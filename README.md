@@ -10,39 +10,39 @@ prior to delivering some more advanced sessions later in the day
 
 ## Outline
 
-1. About Me
+1. [1] About Me
     * Stuff about me
-3. Agenda
+2. [3] Agenda
     * What is PowerShell?
     * What can PowerShell do?
     * Why should I care?
-5. What is PowerShell
+3. [5] What is PowerShell
     * History of PowerShell
     * Evolution of the Windows CLI
     * (3) Object Orientated
     * OpenSource PowerShell
-11. What can PowerShell do?
+4. [11] What can PowerShell do?
     * (2) Cmdlets
         * (1) Cmdlet Demo
     * (2) Scripts
-        * (1) Script Demp
+        * (1) Script Demo
     * (2) Functions
         (2) Simple function Demo
     * (2) The IT Admins Workspace
     * (2) Automating All the Things
-25. Why should I care?
+5. [25] Why should I care?
     * (3) Automating all the Things (duh)
     * (2) Learning Sandbox
     * (1) Essential IT Skill
     * (2) The Cloud and Beyond
     * (2) E-Z Programming
-35. Would you like to know more?
+6. [35] Would you like to know more?
     * (2) PowerShell next steps
         * Functional Coding
         * Testing with Pester
         * Build Automation with PSake
     * (1) Jason Helmick & Snover MVA
     * (1) Don Jones & Jeff Hicks books
-40. Q & A
+7. [40] Q & A
 
 ## Resources
