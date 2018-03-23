@@ -5,8 +5,8 @@ This session was delivered in March 2018 at Boise Code Camp in Boise, Idaho
 It is my second year presenting at BCC and I presented this entry level introduction to PowerShell 
 prior to delivering some more advanced sessions later in the day
 
-* [PowerShell: Function & Form](#)
-* [CI/CD for Beginners (And Ops)](#)
+* [PowerShell: Function & Form](https://github.com/ryandcoates/bcc18-functions)
+* [CI/CD for Beginners (And Ops)](https://github.com/ryandcoates/bcc18-trpm)
 
 ## Outline
 
@@ -26,9 +26,7 @@ prior to delivering some more advanced sessions later in the day
     * (2) Cmdlets
     * (2) Scripts
     * (2) Functions
-    * (2) The IT Admins Workspace
-    * (2) Automating All the Things
-    * [DEMO] PowerShell Examples [bcc18-ps101-01-ps1](bcc18-ps101-01.ps1)
+    * (5) [DEMO] PowerShell Examples [bcc18-ps101-01-ps1](bcc18-ps101-01.ps1)
 5. [25] Why should I care?
     * (3) Automating all the Things (duh)
     * (2) Learning Sandbox
