@@ -21,15 +21,14 @@ prior to delivering some more advanced sessions later in the day
     * Evolution of the Windows CLI
     * (3) Object Orientated
     * OpenSource PowerShell
+    * [DEMO] PowerShell Walkthrough [bcc18-ps101-00.ps1](bcc18-ps101-00.ps1)
 4. [11] What can PowerShell do?
     * (2) Cmdlets
-        * (1) Cmdlet Demo
     * (2) Scripts
-        * (1) Script Demo
     * (2) Functions
-        (2) Simple function Demo
     * (2) The IT Admins Workspace
     * (2) Automating All the Things
+    * [DEMO] PowerShell Examples [bcc18-ps101-01-ps1](bcc18-ps101-01.ps1)
 5. [25] Why should I care?
     * (3) Automating all the Things (duh)
     * (2) Learning Sandbox
@@ -41,8 +40,6 @@ prior to delivering some more advanced sessions later in the day
         * Functional Coding
         * Testing with Pester
         * Build Automation with PSake
-    * (1) Jason Helmick & Snover MVA
-    * (1) Don Jones & Jeff Hicks books
 7. [40] Q & A
 
 ## Resources
