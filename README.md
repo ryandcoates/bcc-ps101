@@ -19,12 +19,12 @@ It is my third year presenting at BCC and I presented this entry level introduct
     * Evolution of the Windows CLI
     * (3) Object Orientated
     * OpenSource PowerShell
-    * [DEMO] PowerShell Walkthrough [bcc-ps101-00.ps1](bcc18-ps101-00.ps1)
+    * [DEMO] PowerShell Walkthrough [bcc-ps101-00.ps1](bcc-ps101-00.ps1)
 3. What can PowerShell do?
     * (2) Cmdlets
     * (2) Scripts
     * (2) Functions
-    * (5) [DEMO] PowerShell Examples [bcc-ps101-01.ps1](bcc18-ps101-01.ps1)
+    * (5) [DEMO] PowerShell Examples [bcc-ps101-01.ps1](bcc-ps101-01.ps1)
 4. Why should I care?
     * (3) Automating all the Things (duh)
     * (2) Learning Sandbox
